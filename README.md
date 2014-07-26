@@ -1,15 +1,10 @@
-### README FOR MLWS ###
+### README FOR ML Timeseries Platform ###
 
 
-Flask app for machine learning web service. 
+Flask app for machine learning platform for science.
+
 
 This is a placeholder - much more to be added here!
-
-
-
-
-
-
 
 0. System dependecies:
 	a. The following Python packages are required:
@@ -27,3 +22,5 @@ This is a placeholder - much more to be added here!
 			~/Data/flask_mlws/classifier_models
 	
 	b. Path to project directory:
+
+Support for this Project from the National Science Foundation (2014).
